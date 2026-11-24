@@ -1,0 +1,29 @@
+Characteristic,Category,Deaths,Percent
+Overall,All included deaths,52565,100
+Sex,Male,24728,47.0427090269191
+Sex,Female,27836,52.9553885665367
+Age,≤49 years,4792,9.11633216018263
+Age,50–64 years,10482,19.9410253971274
+Age,≥65 years,37089,70.5583563207458
+Education,No formal education,7151,13.6041091981356
+Education,1–7 years,21638,41.1642728050985
+Education,≥8 years,7737,14.7189194330829
+Race/skin colour,White,34710,66.0325311519072
+Race/skin colour,Black,2552,4.85494150099876
+Race/skin colour,Mixed,11753,22.3589841149054
+Race/skin colour,Asian,315,0.599258061447731
+Race/skin colour,Indigenous,46,0.0875107010368116
+Marital status,Single,8954,17.0341481974698
+Marital status,Married/consensual union,21055,40.0551697897841
+Marital status,Widowed,16403,31.2051745458004
+Marital status,Separated/divorced,2997,5.7015124132027
+Place of death,Hospital,48393,92.06315989727
+Place of death,Other healthcare facility,1363,2.59298011985161
+Place of death,Home,2345,4.46114334633311
+Place of death,Public road,81,0.15409493008656
+Place of death,Other,352,0.669647103586036
+Region,North,1146,2.18015789974318
+Region,Northeast,7551,14.365071815847
+Region,Central-West,4087,7.77513554646628
+Region,Southeast,29149,55.4532483591744
+Region,South,10632,20.2263863787691

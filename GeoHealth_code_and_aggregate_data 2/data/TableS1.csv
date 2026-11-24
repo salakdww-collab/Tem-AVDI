@@ -1,0 +1,5 @@
+modifier,characteristic,definition,source,reference_year,unit,weighting_population,cutoff
+economic,Per capita income,Mean monthly household income per resident,"Atlas Brasil, based on the 2000 Brazilian Population Census (United Nations Development Programme et al., 2013)",2000,BRL (2010),2000 municipal population,531.53
+hospital_beds,Hospital bed density,Inpatient beds per 1000 residents,"IBGE Survey of Medical-Sanitary Assistance (Instituto Brasileiro de Geografia e Estatística, 2002)",2002,"Beds per 1,000 residents",2002 municipal population,2.35442063535489
+air_conditioning,Household air conditioning prevalence,Households reporting air conditioning,"IBGE 2000 Population Census sample microdata (Instituto Brasileiro de Geografia e Estatística, 2000)",2000,% of households,2000 municipal population,2.50339684891784
+transport,Household automobile ownership,Households reporting automobile ownership,"IBGE 2000 Population Census sample microdata (Instituto Brasileiro de Geografia e Estatística, 2000)",2000,% of households,2000 municipal population,31.9815944982857

@@ -1,0 +1,31 @@
+panel,row_type,parent_group,condition,icd10_definition,deaths,percent,panel_order,display_order
+A. Immediate causes of death,condition,,Sepsis,A40–A41,17222,32.8,1,1
+A. Immediate causes of death,condition,,Vascular disorders of intestine,K55,9998,19,1,2
+A. Immediate causes of death,condition,,Other general symptoms and signs,R68,7783,14.8,1,3
+A. Immediate causes of death,condition,,Shock,R57,3519,6.7,1,4
+A. Immediate causes of death,condition,,Respiratory failure,J96,2059,3.9,1,5
+A. Immediate causes of death,condition,,Other circulatory or respiratory symptoms and signs,R09,2052,3.9,1,6
+A. Immediate causes of death,condition,,Complications of procedures,T81,1805,3.4,1,7
+A. Immediate causes of death,condition,,Peritonitis,K65,872,1.7,1,8
+A. Immediate causes of death,condition,,Abdominal and pelvic pain,R10,785,1.5,1,9
+A. Immediate causes of death,condition,,"Fluid, electrolyte and acid-base disorders",E87,581,1.1,1,10
+B. Conditions contributing to death,parent,,Diseases of the circulatory system,I00–I99,13159,25,2,1
+B. Conditions contributing to death,child,Diseases of the circulatory system,Hypertensive diseases,I10–I15,6438,12.2,2,2
+B. Conditions contributing to death,child,Diseases of the circulatory system,Ischaemic heart diseases,I20–I25,2184,4.2,2,3
+B. Conditions contributing to death,child,Diseases of the circulatory system,Heart failure,I50,1293,2.5,2,4
+B. Conditions contributing to death,parent,,"Endocrine, nutritional and metabolic diseases",E00–E90,4560,8.7,2,5
+B. Conditions contributing to death,child,"Endocrine, nutritional and metabolic diseases",Diabetes mellitus,E10–E14,3525,6.7,2,6
+B. Conditions contributing to death,child,"Endocrine, nutritional and metabolic diseases",Obesity,E66,353,0.7,2,7
+B. Conditions contributing to death,child,"Endocrine, nutritional and metabolic diseases",Unspecified protein-energy malnutrition,E46,217,0.4,2,8
+B. Conditions contributing to death,parent,,Diseases of the genitourinary system,N00–N99,3592,6.8,2,9
+B. Conditions contributing to death,child,Diseases of the genitourinary system,Acute kidney failure,N17,1327,2.5,2,10
+B. Conditions contributing to death,child,Diseases of the genitourinary system,Chronic kidney disease,N18,1238,2.4,2,11
+B. Conditions contributing to death,child,Diseases of the genitourinary system,Unspecified kidney failure,N19,587,1.1,2,12
+B. Conditions contributing to death,parent,,Diseases of the respiratory system,J00–J99,2547,4.8,2,13
+B. Conditions contributing to death,child,Diseases of the respiratory system,Other chronic obstructive pulmonary disease,J44,1013,1.9,2,14
+B. Conditions contributing to death,child,Diseases of the respiratory system,"Pneumonia, organism unspecified",J18,617,1.2,2,15
+B. Conditions contributing to death,child,Diseases of the respiratory system,Respiratory failure,J96,206,0.4,2,16
+B. Conditions contributing to death,parent,,Diseases of the digestive system,K00–K93,1931,3.7,2,17
+B. Conditions contributing to death,child,Diseases of the digestive system,Fibrosis and cirrhosis of liver,K74,392,0.7,2,18
+B. Conditions contributing to death,child,Diseases of the digestive system,Other diseases of liver,K76,252,0.5,2,19
+B. Conditions contributing to death,child,Diseases of the digestive system,Other diseases of digestive system,K92,170,0.3,2,20
